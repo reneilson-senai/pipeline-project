@@ -1,0 +1,15 @@
+projetoSA\escolaControle\model\entity\Turma.class
+projetoSA\escolaControle\controller\TurmaController.class
+projetoSA\escolaControle\service\AlunoService.class
+projetoSA\escolaControle\model\entity\Relatorio.class
+projetoSA\escolaControle\model\DTO\AlunoDTO.class
+projetoSA\escolaControle\repository\TurmaRepository.class
+projetoSA\escolaControle\EscolaControle.class
+projetoSA\escolaControle\model\DTO\RelatorioDTO.class
+projetoSA\escolaControle\service\TurmaService.class
+projetoSA\escolaControle\model\entity\Aluno.class
+projetoSA\escolaControle\service\RelatorioService.class
+projetoSA\escolaControle\model\DTO\TurmaDTO.class
+projetoSA\escolaControle\repository\RelatorioRepository.class
+projetoSA\escolaControle\controller\AlunoController.class
+projetoSA\escolaControle\repository\AlunoRepository.class
